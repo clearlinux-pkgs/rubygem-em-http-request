@@ -4,7 +4,7 @@
 #
 Name     : rubygem-em-http-request
 Version  : 1.1.2
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/em-http-request-1.1.2.gem
 Source0  : https://rubygems.org/downloads/em-http-request-1.1.2.gem
 Summary  : No detailed summary available
